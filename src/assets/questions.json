@@ -556,7 +556,7 @@
     "answer_c": "wzrasta liniowo wraz ze wzrostem wysokości",
     "answer_d": "maleje eksponencjalnie wraz ze wzrostem wysokości",
     "answer_a_correct": false,
-    "answer_b_correct": false,
+    "answer_b_correct": true,
     "answer_c_correct": false,
     "answer_d_correct": true
   },
@@ -572,14 +572,14 @@
     "answer_d_correct": false
   },
   {
-    "question": "Współczynnik sciśliwości ($\\kappa$) definiowany jest jako (oznaczenia stosowane we wzorach: ciśnienie - p, objętość - V):",
+    "question": "⚠️ Współczynnik sciśliwości ($\\kappa$) definiowany jest jako (oznaczenia stosowane we wzorach: ciśnienie - p, objętość - V):",
     "answer_a": "$\\Delta V/(\\Delta pV)$",
     "answer_b": "$-\\Delta V/(\\Delta pV)$",
     "answer_c": "$-(\\Delta pV)/\\Delta V$",
     "answer_d": "$(\\Delta pV)/\\Delta V$",
     "answer_a_correct": false,
-    "answer_b_correct": true,
-    "answer_c_correct": false,
+    "answer_b_correct": false,
+    "answer_c_correct": true,
     "answer_d_correct": false
   },
   {
